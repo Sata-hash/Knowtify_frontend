@@ -188,8 +188,8 @@ function Home() {
         <ReviewSlider />
       </div>
 
-      {/* Footer */}
-      <Footer />
+      {/* Footer 
+      <Footer /> *}
     </div>
   )
 }
