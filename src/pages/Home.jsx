@@ -168,11 +168,11 @@ function Home() {
             </div>
           </div>
 
-          {/* Timeline Section - Section 2 */}
-          <TimelineSection />
+          {/* Timeline Section - Section 2 
+          <TimelineSection /> */}
 
-          {/* Learning Language Section - Section 3 */}
-          <LearningLanguageSection />
+          {/* Learning Language Section - Section 3 
+          <LearningLanguageSection /> */}
         </div>
       </div>
 
@@ -189,7 +189,7 @@ function Home() {
       </div>
 
       {/* Footer 
-      <Footer /> *}
+      <Footer /> */}
     </div>
   )
 }
